@@ -43,3 +43,7 @@ To use this keyboard, you must first download the `.kmp` (Keyman Package) provid
 1. **Install Keyman:** Download and install Keyman Desktop from the official website ([keyman.com](https://keyman.com)).
 2. **Install the Layout:** Double-click your custom `.kmp` file. Keyman will automatically open an installation dialog.
 3. **Complete Setup:** Click **Install** and follow the prompts. You can now toggle to this layout using `Win + Space` (Windows) or `Ctrl + Option + Space` (macOS).
+
+For any suggestions raise a issue!
+
+Made with ❤️ by Daivik Karbhari
