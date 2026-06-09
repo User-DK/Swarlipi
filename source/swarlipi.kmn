@@ -1,0 +1,41 @@
+﻿c swarlipi generated from template at 2025-08-24 22:21:50
+c with name "swarlipi"
+store(&VERSION) '10.0'
+store(&NAME) 'swarlipi'
+store(&COPYRIGHT) 'Copyright © Daivik Karbhari'
+store(&KEYBOARDVERSION) '1.0'
+store(&TARGETS) 'any'
+store(&BITMAP) 'swarlipi.ico'
+store(&VISUALKEYBOARD) 'swarlipi.kvks'
+store(&LAYOUTFILE) 'swarlipi.keyman-touch-layout'
+
+begin Unicode > use(main)
+
+group(main) using keys
++ [K_I] > '्'
+
++ "s" > 'सा'
++ "S" > 'सा'
++ "R" > 'रे॒'
++ "r" > 'रे'
++ "G" > 'ग॒'
++ "g" > 'ग'
++ "m" > 'म'
++ "M" > 'मं'
++ "p" > 'प'
++ "P" > 'प'
++ "D" > 'ध॒'
++ "d" > 'ध'
++ "N" > 'नि॒'
++ "n" > 'नि'
++ "," > '़'
++ "." > 'ं'
++ "|" > '।'
++ "!" > '्'
++ "*" > '्'
++ "`" > '्'
++ "i" > '्'
++ "a" > 'ा'
++ "A" > 'ा'
++ "(" > '।'
++ ")" > '।'
